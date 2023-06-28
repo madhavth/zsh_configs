@@ -1,0 +1,23 @@
+alias nf="neofetch"
+alias scr="scrcpy"
+alias ssd="xp /mnt/win"
+alias of="onefetch"
+alias ns="newscript"
+
+alias -g G=' | rg -i '
+alias tu="tldr --update"
+alias fde="fd -H --no-ignore --extension"
+alias fdh="fd -H"
+alias tk="tokei"
+alias hist="history"
+alias telec="teleconsole"
+alias ggle="tuxi"
+alias fdn="fd --hidden --no-ignore"
+alias voc="pyvoc -w"
+alias sp="shellpackager"
+alias usp="updatesp"
+alias dm="downmusic"
+alias lnd="linode"
+alias ym="ydlm"
+alias cg='cd `git rev-parse --show-toplevel`'
+alias dfh="df -H"
